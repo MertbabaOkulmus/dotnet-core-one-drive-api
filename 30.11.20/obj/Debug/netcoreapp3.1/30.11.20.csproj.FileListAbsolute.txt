@@ -1,0 +1,11 @@
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\bin\Debug\netcoreapp3.1\30.11.20.exe
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\obj\Debug\netcoreapp3.1\30.11.20.csprojAssemblyReference.cache
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\obj\Debug\netcoreapp3.1\30.11.20.AssemblyInfoInputs.cache
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\obj\Debug\netcoreapp3.1\30.11.20.AssemblyInfo.cs
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\obj\Debug\netcoreapp3.1\30.11.20.csproj.CopyComplete
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\obj\Debug\netcoreapp3.1\30.11.20.csproj.CoreCompileInputs.cache
+C:\Users\mertb\OneDrive\Masaüstü\onedrive\30.11.20\30.11.20\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
