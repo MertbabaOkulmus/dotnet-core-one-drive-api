@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2yNG/UEx53qJFEBAFSD3ZBzBtMEi4Tni1/K0AHAmTKE6G46qq9yyZLs+NhgSU9hQuFtpHXPTEa6ijM1v8dapg==",
+  "dgSpecHash": "R72sg8YvlnrSNvVCI2Rxk4uHA1ibpj5NNr/QcHrqOZ3Mwp8X8O9WdEXTktdq+7V1URnCQ8YZ+TlKak8N//XQoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\onedrive\\30.11.20\\30.11.20\\30.11.20.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mertb\\.nuget\\packages\\identity.client\\1.0.0\\identity.client.1.0.0.nupkg.sha512",
     "C:\\Users\\mertb\\.nuget\\packages\\identity.data\\1.0.0\\identity.data.1.0.0.nupkg.sha512",
     "C:\\Users\\mertb\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
+    "C:\\Users\\mertb\\.nuget\\packages\\microsoft.azure.appservice.apiapps.service\\0.9.64\\microsoft.azure.appservice.apiapps.service.0.9.64.nupkg.sha512",
     "C:\\Users\\mertb\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\mertb\\.nuget\\packages\\microsoft.graph\\3.20.0\\microsoft.graph.3.20.0.nupkg.sha512",
     "C:\\Users\\mertb\\.nuget\\packages\\microsoft.graph.core\\1.23.0\\microsoft.graph.core.1.23.0.nupkg.sha512",
@@ -97,5 +98,16 @@
     "C:\\Users\\mertb\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\mertb\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Azure.AppService.ApiApps.Service 0.9.64' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Azure.AppService.ApiApps.Service",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

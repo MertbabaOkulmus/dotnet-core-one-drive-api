@@ -37,6 +37,15 @@
           "lib/netstandard2.0/System.Net.Http.Formatting.dll": {}
         }
       },
+      "Microsoft.Azure.AppService.ApiApps.Service/0.9.64": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.Azure.AppService.ApiApps.Service.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Azure.AppService.ApiApps.Service.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1550,6 +1559,19 @@
         "lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.xml",
         "microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
         "microsoft.aspnet.webapi.client.nuspec"
+      ]
+    },
+    "Microsoft.Azure.AppService.ApiApps.Service/0.9.64": {
+      "sha512": "XBtt3RU3VFwIn563nkjl/Qr3TcWsZ93KXxNPHwYTII3fb4oB2ptwEqrePApzROKPnTZTxbnSQta3y3Gh2VLbEA==",
+      "type": "package",
+      "path": "microsoft.azure.appservice.apiapps.service/0.9.64",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.txt",
+        "lib/net45/Microsoft.Azure.AppService.ApiApps.Service.dll",
+        "microsoft.azure.appservice.apiapps.service.0.9.64.nupkg.sha512",
+        "microsoft.azure.appservice.apiapps.service.nuspec"
       ]
     },
     "Microsoft.CSharp/4.3.0": {
@@ -5417,6 +5439,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Identity.Client >= 1.0.0",
+      "Microsoft.Azure.AppService.ApiApps.Service >= 0.9.64",
       "Microsoft.Graph >= 3.20.0",
       "Microsoft.Graph.Core >= 1.23.0",
       "Microsoft.Identity.Client >= 4.23.0"
@@ -5463,6 +5486,10 @@
             "target": "Package",
             "version": "[1.0.0, )"
           },
+          "Microsoft.Azure.AppService.ApiApps.Service": {
+            "target": "Package",
+            "version": "[0.9.64, )"
+          },
           "Microsoft.Graph": {
             "target": "Package",
             "version": "[3.20.0, )"
@@ -5494,5 +5521,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Azure.AppService.ApiApps.Service 0.9.64' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Azure.AppService.ApiApps.Service",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

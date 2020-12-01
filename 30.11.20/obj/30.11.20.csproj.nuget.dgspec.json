@@ -42,6 +42,10 @@
               "target": "Package",
               "version": "[1.0.0, )"
             },
+            "Microsoft.Azure.AppService.ApiApps.Service": {
+              "target": "Package",
+              "version": "[0.9.64, )"
+            },
             "Microsoft.Graph": {
               "target": "Package",
               "version": "[3.20.0, )"
