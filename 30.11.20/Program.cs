@@ -18,7 +18,7 @@ namespace _30._11._20
         public static GraphServiceClient graphClient = null;
         private DriveItem CurrentFolder { get; set; }
 
-        // Verilen bağlam ve kaynak kimliği için bir erişim belirteci alın. İlk önce bir girişimde bulunulur
+        // Verileri bağlama ve kaynak kimliği için bir erişim belirteci alan kısım. İlk önce bir girişimde bulunulur
         public static GraphServiceClient GetAuthenticatedClient()
         {
             if (graphClient == null)
