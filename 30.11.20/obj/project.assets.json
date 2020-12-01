@@ -5451,11 +5451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\onedrive\\30.11.20\\30.11.20\\30.11.20.csproj",
+      "projectUniqueName": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\github\\dotnet-core-one-drive-api\\30.11.20\\30.11.20.csproj",
       "projectName": "30.11.20",
-      "projectPath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\onedrive\\30.11.20\\30.11.20\\30.11.20.csproj",
+      "projectPath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\github\\dotnet-core-one-drive-api\\30.11.20\\30.11.20.csproj",
       "packagesPath": "C:\\Users\\mertb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\onedrive\\30.11.20\\30.11.20\\obj\\",
+      "outputPath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\github\\dotnet-core-one-drive-api\\30.11.20\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mertb\\AppData\\Roaming\\NuGet\\NuGet.Config",

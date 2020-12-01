@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R72sg8YvlnrSNvVCI2Rxk4uHA1ibpj5NNr/QcHrqOZ3Mwp8X8O9WdEXTktdq+7V1URnCQ8YZ+TlKak8N//XQoA==",
+  "dgSpecHash": "yPKPzGqj4WJXwPJe3intev3jnXqSaCuZZmKIGkSTBXnRxUV8IL4ZxMW6WiSFtklW5WwUku4Di/TKG43BGa5Q4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\onedrive\\30.11.20\\30.11.20\\30.11.20.csproj",
+  "projectFilePath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\github\\dotnet-core-one-drive-api\\30.11.20\\30.11.20.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mertb\\.nuget\\packages\\identity.client\\1.0.0\\identity.client.1.0.0.nupkg.sha512",
     "C:\\Users\\mertb\\.nuget\\packages\\identity.data\\1.0.0\\identity.data.1.0.0.nupkg.sha512",
